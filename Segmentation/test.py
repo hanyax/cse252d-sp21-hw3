@@ -19,7 +19,7 @@ parser.add_argument('--labelRoot', default='/datasets/cse152-252-sp20-public/hw3
 parser.add_argument('--fileList', default='/datasets/cse152-252-sp20-public/hw3_data/VOCdevkit/VOC2012/ImageSets/Segmentation/val.txt', help='path to input images' )
 parser.add_argument('--experiment', default='test', help='the path to store sampled images and models' )
 parser.add_argument('--modelRoot', default='checkpoint', help='the path to store the testing results')
-parser.add_argument('--epochId', type=int, default=210, help='the number of epochs being trained')
+parser.add_argument('--epochId', type=int, default=10, help='the number of epochs being trained')
 parser.add_argument('--batchSize', type=int, default=1, help='the size of a batch' )
 parser.add_argument('--numClasses', type=int, default=21, help='the number of classes' )
 parser.add_argument('--isDilation', action='store_true', help='whether to use dialated model or not' )
@@ -70,8 +70,8 @@ else:
     encoder = model.encoder()
     decoder = model.decoder()
 
-encoder.load_state_dict(torch.load('%s/encoder_%d.pth' % (opt.modelRoot, opt.epochId) ) )
-decoder.load_state_dict(torch.load('%s/decoder_%d.pth' % (opt.modelRoot, opt.epochId) ) )
+encoder.load_state_dict(torch.load('%s/encoderFinal_%d.pth' % (opt.modelRoot, opt.epochId) ) )
+decoder.load_state_dict(torch.load('%s/decoderFinal_%d.pth' % (opt.modelRoot, opt.epochId) ) )
 encoder = encoder.eval()
 decoder = decoder.eval()
 

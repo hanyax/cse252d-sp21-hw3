@@ -42,7 +42,6 @@ class ResBlock(nn.Module ):
 
         return out
 
-
 class encoder(nn.Module ):
     def __init__(self ):
         super(encoder, self ).__init__()
@@ -84,7 +83,7 @@ class decoder(nn.Module ):
         self.bn3 = nn.BatchNorm2d(21 )
         self.conv4 = nn.Conv2d(21, 21, 3, 1, 1, bias=False )
         self.sf = nn.Softmax(dim=1 )
-
+        
     def forward(self, im, x1, x2, x3, x4, x5):
 
         _, _, nh, nw = x3.size()
@@ -158,7 +157,6 @@ class decoderDilation(nn.Module ):
         self.sf = nn.Softmax(dim=1 )
 
     def forward(self, im, x1, x2, x3, x4, x5):
-
         ## IMPLEMENT YOUR CODE HERE
         _, _, nh, nw = x3.size()
         x5 = F.interpolate(x5, [nh, nw], mode='bilinear' )
@@ -205,13 +203,10 @@ class decoderSPP(nn.Module ):
 
     def forward(self, im, x1, x2, x3, x4, x5):
 
-        ## IMPLEMENT YOUR CODE HERE
-
-
         return pred
 
 
-def loadPretrainedWeight(network, isOutput = False ):
+def loadPretrainedWeight(network, isOutput = True):
     paramList = []
     resnet18 = resnet.resnet18(pretrained=True )
     for param in resnet18.parameters():
@@ -219,12 +214,13 @@ def loadPretrainedWeight(network, isOutput = False ):
 
     cnt = 0
     for param in network.parameters():
+        print(param.shape, paramList[cnt].shape)
         if paramList[cnt ].size() == param.size():
             param.data.copy_(paramList[cnt].data )
             #param.data.copy_(param.data )
             if isOutput:
                 print(param.size() )
         else:
-            print(param.shape, paramList[cnt].shape )
+            print(param.shape, paramList[cnt].shape)
             break
         cnt += 1
