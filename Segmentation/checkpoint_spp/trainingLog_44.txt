@@ -1,0 +1,366 @@
+Epoch 44 iteration 8053: Loss 0.00089 Mean Loss 0.00978 
+Epoch 44 iteration 8053: Mean Accuracy 75.32457 
+Epoch 44 iteration 8054: Loss 0.00185 Mean Loss 0.00978 
+Epoch 44 iteration 8054: Mean Accuracy 75.32808 
+Epoch 44 iteration 8055: Loss 0.00025 Mean Loss 0.00978 
+Epoch 44 iteration 8055: Mean Accuracy 75.32966 
+Epoch 44 iteration 8056: Loss 0.00045 Mean Loss 0.00977 
+Epoch 44 iteration 8056: Mean Accuracy 75.33208 
+Epoch 44 iteration 8057: Loss 0.00060 Mean Loss 0.00977 
+Epoch 44 iteration 8057: Mean Accuracy 75.33536 
+Epoch 44 iteration 8058: Loss 0.00071 Mean Loss 0.00977 
+Epoch 44 iteration 8058: Mean Accuracy 75.33687 
+Epoch 44 iteration 8059: Loss 0.00053 Mean Loss 0.00977 
+Epoch 44 iteration 8059: Mean Accuracy 75.33891 
+Epoch 44 iteration 8060: Loss 0.00052 Mean Loss 0.00977 
+Epoch 44 iteration 8060: Mean Accuracy 75.34146 
+Epoch 44 iteration 8061: Loss 0.00064 Mean Loss 0.00977 
+Epoch 44 iteration 8061: Mean Accuracy 75.34452 
+Epoch 44 iteration 8062: Loss 0.00032 Mean Loss 0.00977 
+Epoch 44 iteration 8062: Mean Accuracy 75.34708 
+Epoch 44 iteration 8063: Loss 0.00084 Mean Loss 0.00977 
+Epoch 44 iteration 8063: Mean Accuracy 75.35003 
+Epoch 44 iteration 8064: Loss 0.00097 Mean Loss 0.00977 
+Epoch 44 iteration 8064: Mean Accuracy 75.35216 
+Epoch 44 iteration 8065: Loss 0.00039 Mean Loss 0.00976 
+Epoch 44 iteration 8065: Mean Accuracy 75.35535 
+Epoch 44 iteration 8066: Loss 0.00043 Mean Loss 0.00976 
+Epoch 44 iteration 8066: Mean Accuracy 75.35673 
+Epoch 44 iteration 8067: Loss 0.00041 Mean Loss 0.00976 
+Epoch 44 iteration 8067: Mean Accuracy 75.35894 
+Epoch 44 iteration 8068: Loss 0.00090 Mean Loss 0.00976 
+Epoch 44 iteration 8068: Mean Accuracy 75.36051 
+Epoch 44 iteration 8069: Loss 0.00066 Mean Loss 0.00976 
+Epoch 44 iteration 8069: Mean Accuracy 75.36286 
+Epoch 44 iteration 8070: Loss 0.00133 Mean Loss 0.00976 
+Epoch 44 iteration 8070: Mean Accuracy 75.36911 
+Epoch 44 iteration 8071: Loss 0.00109 Mean Loss 0.00976 
+Epoch 44 iteration 8071: Mean Accuracy 75.37267 
+Epoch 44 iteration 8072: Loss 0.00058 Mean Loss 0.00976 
+Epoch 44 iteration 8072: Mean Accuracy 75.37434 
+Epoch 44 iteration 8073: Loss 0.00110 Mean Loss 0.00976 
+Epoch 44 iteration 8073: Mean Accuracy 75.37774 
+Epoch 44 iteration 8074: Loss 0.00046 Mean Loss 0.00975 
+Epoch 44 iteration 8074: Mean Accuracy 75.38056 
+Epoch 44 iteration 8075: Loss 0.00051 Mean Loss 0.00975 
+Epoch 44 iteration 8075: Mean Accuracy 75.38245 
+Epoch 44 iteration 8076: Loss 0.00063 Mean Loss 0.00975 
+Epoch 44 iteration 8076: Mean Accuracy 75.38422 
+Epoch 44 iteration 8077: Loss 0.00144 Mean Loss 0.00975 
+Epoch 44 iteration 8077: Mean Accuracy 75.38613 
+Epoch 44 iteration 8078: Loss 0.00117 Mean Loss 0.00975 
+Epoch 44 iteration 8078: Mean Accuracy 75.38811 
+Epoch 44 iteration 8079: Loss 0.00028 Mean Loss 0.00975 
+Epoch 44 iteration 8079: Mean Accuracy 75.38851 
+Epoch 44 iteration 8080: Loss 0.00025 Mean Loss 0.00975 
+Epoch 44 iteration 8080: Mean Accuracy 75.39194 
+Epoch 44 iteration 8081: Loss 0.00082 Mean Loss 0.00975 
+Epoch 44 iteration 8081: Mean Accuracy 75.39480 
+Epoch 44 iteration 8082: Loss 0.00068 Mean Loss 0.00975 
+Epoch 44 iteration 8082: Mean Accuracy 75.39777 
+Epoch 44 iteration 8083: Loss 0.00085 Mean Loss 0.00974 
+Epoch 44 iteration 8083: Mean Accuracy 75.40063 
+Epoch 44 iteration 8084: Loss 0.00074 Mean Loss 0.00974 
+Epoch 44 iteration 8084: Mean Accuracy 75.40369 
+Epoch 44 iteration 8085: Loss 0.00191 Mean Loss 0.00974 
+Epoch 44 iteration 8085: Mean Accuracy 75.40533 
+Epoch 44 iteration 8086: Loss 0.00046 Mean Loss 0.00974 
+Epoch 44 iteration 8086: Mean Accuracy 75.40688 
+Epoch 44 iteration 8087: Loss 0.00093 Mean Loss 0.00974 
+Epoch 44 iteration 8087: Mean Accuracy 75.40977 
+Epoch 44 iteration 8088: Loss 0.00042 Mean Loss 0.00974 
+Epoch 44 iteration 8088: Mean Accuracy 75.41271 
+Epoch 44 iteration 8089: Loss 0.00042 Mean Loss 0.00974 
+Epoch 44 iteration 8089: Mean Accuracy 75.41363 
+Epoch 44 iteration 8090: Loss 0.00072 Mean Loss 0.00974 
+Epoch 44 iteration 8090: Mean Accuracy 75.41697 
+Epoch 44 iteration 8091: Loss 0.00069 Mean Loss 0.00974 
+Epoch 44 iteration 8091: Mean Accuracy 75.41879 
+Epoch 44 iteration 8092: Loss 0.00039 Mean Loss 0.00973 
+Epoch 44 iteration 8092: Mean Accuracy 75.42035 
+Epoch 44 iteration 8093: Loss 0.00119 Mean Loss 0.00973 
+Epoch 44 iteration 8093: Mean Accuracy 75.42906 
+Epoch 44 iteration 8094: Loss 0.00053 Mean Loss 0.00973 
+Epoch 44 iteration 8094: Mean Accuracy 75.43292 
+Epoch 44 iteration 8095: Loss 0.00071 Mean Loss 0.00973 
+Epoch 44 iteration 8095: Mean Accuracy 75.43372 
+Epoch 44 iteration 8096: Loss 0.00020 Mean Loss 0.00973 
+Epoch 44 iteration 8096: Mean Accuracy 75.43506 
+Epoch 44 iteration 8097: Loss 0.00052 Mean Loss 0.00973 
+Epoch 44 iteration 8097: Mean Accuracy 75.43697 
+Epoch 44 iteration 8098: Loss 0.00050 Mean Loss 0.00973 
+Epoch 44 iteration 8098: Mean Accuracy 75.43909 
+Epoch 44 iteration 8099: Loss 0.00039 Mean Loss 0.00973 
+Epoch 44 iteration 8099: Mean Accuracy 75.44164 
+Epoch 44 iteration 8100: Loss 0.00043 Mean Loss 0.00973 
+Epoch 44 iteration 8100: Mean Accuracy 75.44345 
+Epoch 44 iteration 8101: Loss 0.00077 Mean Loss 0.00972 
+Epoch 44 iteration 8101: Mean Accuracy 75.44536 
+Epoch 44 iteration 8102: Loss 0.00095 Mean Loss 0.00972 
+Epoch 44 iteration 8102: Mean Accuracy 75.44884 
+Epoch 44 iteration 8103: Loss 0.00055 Mean Loss 0.00972 
+Epoch 44 iteration 8103: Mean Accuracy 75.45064 
+Epoch 44 iteration 8104: Loss 0.00043 Mean Loss 0.00972 
+Epoch 44 iteration 8104: Mean Accuracy 75.45353 
+Epoch 44 iteration 8105: Loss 0.00063 Mean Loss 0.00972 
+Epoch 44 iteration 8105: Mean Accuracy 75.45561 
+Epoch 44 iteration 8106: Loss 0.00074 Mean Loss 0.00972 
+Epoch 44 iteration 8106: Mean Accuracy 75.45851 
+Epoch 44 iteration 8107: Loss 0.00039 Mean Loss 0.00972 
+Epoch 44 iteration 8107: Mean Accuracy 75.46066 
+Epoch 44 iteration 8108: Loss 0.00028 Mean Loss 0.00972 
+Epoch 44 iteration 8108: Mean Accuracy 75.46218 
+Epoch 44 iteration 8109: Loss 0.00083 Mean Loss 0.00972 
+Epoch 44 iteration 8109: Mean Accuracy 75.46527 
+Epoch 44 iteration 8110: Loss 0.00066 Mean Loss 0.00971 
+Epoch 44 iteration 8110: Mean Accuracy 75.46942 
+Epoch 44 iteration 8111: Loss 0.00093 Mean Loss 0.00971 
+Epoch 44 iteration 8111: Mean Accuracy 75.47184 
+Epoch 44 iteration 8112: Loss 0.00034 Mean Loss 0.00971 
+Epoch 44 iteration 8112: Mean Accuracy 75.47549 
+Epoch 44 iteration 8113: Loss 0.00075 Mean Loss 0.00971 
+Epoch 44 iteration 8113: Mean Accuracy 75.47687 
+Epoch 44 iteration 8114: Loss 0.00072 Mean Loss 0.00971 
+Epoch 44 iteration 8114: Mean Accuracy 75.47945 
+Epoch 44 iteration 8115: Loss 0.00085 Mean Loss 0.00971 
+Epoch 44 iteration 8115: Mean Accuracy 75.48164 
+Epoch 44 iteration 8116: Loss 0.00041 Mean Loss 0.00971 
+Epoch 44 iteration 8116: Mean Accuracy 75.48390 
+Epoch 44 iteration 8117: Loss 0.00038 Mean Loss 0.00971 
+Epoch 44 iteration 8117: Mean Accuracy 75.48531 
+Epoch 44 iteration 8118: Loss 0.00048 Mean Loss 0.00971 
+Epoch 44 iteration 8118: Mean Accuracy 75.48800 
+Epoch 44 iteration 8119: Loss 0.00050 Mean Loss 0.00970 
+Epoch 44 iteration 8119: Mean Accuracy 75.48937 
+Epoch 44 iteration 8120: Loss 0.00061 Mean Loss 0.00970 
+Epoch 44 iteration 8120: Mean Accuracy 75.49059 
+Epoch 44 iteration 8121: Loss 0.00069 Mean Loss 0.00970 
+Epoch 44 iteration 8121: Mean Accuracy 75.49523 
+Epoch 44 iteration 8122: Loss 0.00038 Mean Loss 0.00970 
+Epoch 44 iteration 8122: Mean Accuracy 75.49706 
+Epoch 44 iteration 8123: Loss 0.00034 Mean Loss 0.00970 
+Epoch 44 iteration 8123: Mean Accuracy 75.49799 
+Epoch 44 iteration 8124: Loss 0.00069 Mean Loss 0.00970 
+Epoch 44 iteration 8124: Mean Accuracy 75.50374 
+Epoch 44 iteration 8125: Loss 0.00095 Mean Loss 0.00970 
+Epoch 44 iteration 8125: Mean Accuracy 75.50735 
+Epoch 44 iteration 8126: Loss 0.00065 Mean Loss 0.00970 
+Epoch 44 iteration 8126: Mean Accuracy 75.51122 
+Epoch 44 iteration 8127: Loss 0.00049 Mean Loss 0.00970 
+Epoch 44 iteration 8127: Mean Accuracy 75.51449 
+Epoch 44 iteration 8128: Loss 0.00035 Mean Loss 0.00969 
+Epoch 44 iteration 8128: Mean Accuracy 75.51767 
+Epoch 44 iteration 8129: Loss 0.00087 Mean Loss 0.00969 
+Epoch 44 iteration 8129: Mean Accuracy 75.52232 
+Epoch 44 iteration 8130: Loss 0.00064 Mean Loss 0.00969 
+Epoch 44 iteration 8130: Mean Accuracy 75.52411 
+Epoch 44 iteration 8131: Loss 0.00080 Mean Loss 0.00969 
+Epoch 44 iteration 8131: Mean Accuracy 75.52695 
+Epoch 44 iteration 8132: Loss 0.00062 Mean Loss 0.00969 
+Epoch 44 iteration 8132: Mean Accuracy 75.52944 
+Epoch 44 iteration 8133: Loss 0.00044 Mean Loss 0.00969 
+Epoch 44 iteration 8133: Mean Accuracy 75.53114 
+Epoch 44 iteration 8134: Loss 0.00039 Mean Loss 0.00969 
+Epoch 44 iteration 8134: Mean Accuracy 75.53300 
+Epoch 44 iteration 8135: Loss 0.00075 Mean Loss 0.00969 
+Epoch 44 iteration 8135: Mean Accuracy 75.53578 
+Epoch 44 iteration 8136: Loss 0.00046 Mean Loss 0.00969 
+Epoch 44 iteration 8136: Mean Accuracy 75.54092 
+Epoch 44 iteration 8137: Loss 0.00120 Mean Loss 0.00968 
+Epoch 44 iteration 8137: Mean Accuracy 75.54447 
+Epoch 44 iteration 8138: Loss 0.00051 Mean Loss 0.00968 
+Epoch 44 iteration 8138: Mean Accuracy 75.54681 
+Epoch 44 iteration 8139: Loss 0.00052 Mean Loss 0.00968 
+Epoch 44 iteration 8139: Mean Accuracy 75.54956 
+Epoch 44 iteration 8140: Loss 0.00036 Mean Loss 0.00968 
+Epoch 44 iteration 8140: Mean Accuracy 75.55045 
+Epoch 44 iteration 8141: Loss 0.00047 Mean Loss 0.00968 
+Epoch 44 iteration 8141: Mean Accuracy 75.55251 
+Epoch 44 iteration 8142: Loss 0.00092 Mean Loss 0.00968 
+Epoch 44 iteration 8142: Mean Accuracy 75.55736 
+Epoch 44 iteration 8143: Loss 0.00045 Mean Loss 0.00968 
+Epoch 44 iteration 8143: Mean Accuracy 75.55986 
+Epoch 44 iteration 8144: Loss 0.00108 Mean Loss 0.00968 
+Epoch 44 iteration 8144: Mean Accuracy 75.56252 
+Epoch 44 iteration 8145: Loss 0.00031 Mean Loss 0.00968 
+Epoch 44 iteration 8145: Mean Accuracy 75.56464 
+Epoch 44 iteration 8146: Loss 0.00070 Mean Loss 0.00967 
+Epoch 44 iteration 8146: Mean Accuracy 75.56635 
+Epoch 44 iteration 8147: Loss 0.00047 Mean Loss 0.00967 
+Epoch 44 iteration 8147: Mean Accuracy 75.56826 
+Epoch 44 iteration 8148: Loss 0.00056 Mean Loss 0.00967 
+Epoch 44 iteration 8148: Mean Accuracy 75.57046 
+Epoch 44 iteration 8149: Loss 0.00031 Mean Loss 0.00967 
+Epoch 44 iteration 8149: Mean Accuracy 75.57288 
+Epoch 44 iteration 8150: Loss 0.00031 Mean Loss 0.00967 
+Epoch 44 iteration 8150: Mean Accuracy 75.57577 
+Epoch 44 iteration 8151: Loss 0.00052 Mean Loss 0.00967 
+Epoch 44 iteration 8151: Mean Accuracy 75.57750 
+Epoch 44 iteration 8152: Loss 0.00037 Mean Loss 0.00967 
+Epoch 44 iteration 8152: Mean Accuracy 75.57831 
+Epoch 44 iteration 8153: Loss 0.00091 Mean Loss 0.00967 
+Epoch 44 iteration 8153: Mean Accuracy 75.58064 
+Epoch 44 iteration 8154: Loss 0.00183 Mean Loss 0.00967 
+Epoch 44 iteration 8154: Mean Accuracy 75.58558 
+Epoch 44 iteration 8155: Loss 0.00033 Mean Loss 0.00966 
+Epoch 44 iteration 8155: Mean Accuracy 75.58703 
+Epoch 44 iteration 8156: Loss 0.00064 Mean Loss 0.00966 
+Epoch 44 iteration 8156: Mean Accuracy 75.58945 
+Epoch 44 iteration 8157: Loss 0.00014 Mean Loss 0.00966 
+Epoch 44 iteration 8157: Mean Accuracy 75.59069 
+Epoch 44 iteration 8158: Loss 0.00036 Mean Loss 0.00966 
+Epoch 44 iteration 8158: Mean Accuracy 75.59286 
+Epoch 44 iteration 8159: Loss 0.00073 Mean Loss 0.00966 
+Epoch 44 iteration 8159: Mean Accuracy 75.59373 
+Epoch 44 iteration 8160: Loss 0.00045 Mean Loss 0.00966 
+Epoch 44 iteration 8160: Mean Accuracy 75.59632 
+Epoch 44 iteration 8161: Loss 0.00103 Mean Loss 0.00966 
+Epoch 44 iteration 8161: Mean Accuracy 75.59764 
+Epoch 44 iteration 8162: Loss 0.00101 Mean Loss 0.00966 
+Epoch 44 iteration 8162: Mean Accuracy 75.60148 
+Epoch 44 iteration 8163: Loss 0.00043 Mean Loss 0.00966 
+Epoch 44 iteration 8163: Mean Accuracy 75.60512 
+Epoch 44 iteration 8164: Loss 0.00094 Mean Loss 0.00965 
+Epoch 44 iteration 8164: Mean Accuracy 75.60940 
+Epoch 44 iteration 8165: Loss 0.00051 Mean Loss 0.00965 
+Epoch 44 iteration 8165: Mean Accuracy 75.61124 
+Epoch 44 iteration 8166: Loss 0.00038 Mean Loss 0.00965 
+Epoch 44 iteration 8166: Mean Accuracy 75.61342 
+Epoch 44 iteration 8167: Loss 0.00063 Mean Loss 0.00965 
+Epoch 44 iteration 8167: Mean Accuracy 75.61710 
+Epoch 44 iteration 8168: Loss 0.00048 Mean Loss 0.00965 
+Epoch 44 iteration 8168: Mean Accuracy 75.62195 
+Epoch 44 iteration 8169: Loss 0.00046 Mean Loss 0.00965 
+Epoch 44 iteration 8169: Mean Accuracy 75.62340 
+Epoch 44 iteration 8170: Loss 0.00057 Mean Loss 0.00965 
+Epoch 44 iteration 8170: Mean Accuracy 75.62504 
+Epoch 44 iteration 8171: Loss 0.00086 Mean Loss 0.00965 
+Epoch 44 iteration 8171: Mean Accuracy 75.62746 
+Epoch 44 iteration 8172: Loss 0.00069 Mean Loss 0.00965 
+Epoch 44 iteration 8172: Mean Accuracy 75.63057 
+Epoch 44 iteration 8173: Loss 0.00034 Mean Loss 0.00964 
+Epoch 44 iteration 8173: Mean Accuracy 75.63318 
+Epoch 44 iteration 8174: Loss 0.00062 Mean Loss 0.00964 
+Epoch 44 iteration 8174: Mean Accuracy 75.63463 
+Epoch 44 iteration 8175: Loss 0.00055 Mean Loss 0.00964 
+Epoch 44 iteration 8175: Mean Accuracy 75.63678 
+Epoch 44 iteration 8176: Loss 0.00058 Mean Loss 0.00964 
+Epoch 44 iteration 8176: Mean Accuracy 75.63882 
+Epoch 44 iteration 8177: Loss 0.00054 Mean Loss 0.00964 
+Epoch 44 iteration 8177: Mean Accuracy 75.64136 
+Epoch 44 iteration 8178: Loss 0.00054 Mean Loss 0.00964 
+Epoch 44 iteration 8178: Mean Accuracy 75.64384 
+Epoch 44 iteration 8179: Loss 0.00115 Mean Loss 0.00964 
+Epoch 44 iteration 8179: Mean Accuracy 75.64759 
+Epoch 44 iteration 8180: Loss 0.00067 Mean Loss 0.00964 
+Epoch 44 iteration 8180: Mean Accuracy 75.65118 
+Epoch 44 iteration 8181: Loss 0.00015 Mean Loss 0.00964 
+Epoch 44 iteration 8181: Mean Accuracy 75.65282 
+Epoch 44 iteration 8182: Loss 0.00061 Mean Loss 0.00963 
+Epoch 44 iteration 8182: Mean Accuracy 75.65482 
+Epoch 44 iteration 8183: Loss 0.00062 Mean Loss 0.00963 
+Epoch 44 iteration 8183: Mean Accuracy 75.65764 
+Epoch 44 iteration 8184: Loss 0.00035 Mean Loss 0.00963 
+Epoch 44 iteration 8184: Mean Accuracy 75.65974 
+Epoch 44 iteration 8185: Loss 0.00050 Mean Loss 0.00963 
+Epoch 44 iteration 8185: Mean Accuracy 75.66086 
+Epoch 44 iteration 8186: Loss 0.00052 Mean Loss 0.00963 
+Epoch 44 iteration 8186: Mean Accuracy 75.66290 
+Epoch 44 iteration 8187: Loss 0.00051 Mean Loss 0.00963 
+Epoch 44 iteration 8187: Mean Accuracy 75.66548 
+Epoch 44 iteration 8188: Loss 0.00209 Mean Loss 0.00963 
+Epoch 44 iteration 8188: Mean Accuracy 75.67204 
+Epoch 44 iteration 8189: Loss 0.00060 Mean Loss 0.00963 
+Epoch 44 iteration 8189: Mean Accuracy 75.67358 
+Epoch 44 iteration 8190: Loss 0.00133 Mean Loss 0.00963 
+Epoch 44 iteration 8190: Mean Accuracy 75.67555 
+Epoch 44 iteration 8191: Loss 0.00045 Mean Loss 0.00962 
+Epoch 44 iteration 8191: Mean Accuracy 75.67962 
+Epoch 44 iteration 8192: Loss 0.00037 Mean Loss 0.00962 
+Epoch 44 iteration 8192: Mean Accuracy 75.68166 
+Epoch 44 iteration 8193: Loss 0.00052 Mean Loss 0.00962 
+Epoch 44 iteration 8193: Mean Accuracy 75.68274 
+Epoch 44 iteration 8194: Loss 0.00102 Mean Loss 0.00962 
+Epoch 44 iteration 8194: Mean Accuracy 75.68605 
+Epoch 44 iteration 8195: Loss 0.00060 Mean Loss 0.00962 
+Epoch 44 iteration 8195: Mean Accuracy 75.68764 
+Epoch 44 iteration 8196: Loss 0.00065 Mean Loss 0.00962 
+Epoch 44 iteration 8196: Mean Accuracy 75.68987 
+Epoch 44 iteration 8197: Loss 0.00033 Mean Loss 0.00962 
+Epoch 44 iteration 8197: Mean Accuracy 75.69079 
+Epoch 44 iteration 8198: Loss 0.00083 Mean Loss 0.00962 
+Epoch 44 iteration 8198: Mean Accuracy 75.69237 
+Epoch 44 iteration 8199: Loss 0.00088 Mean Loss 0.00962 
+Epoch 44 iteration 8199: Mean Accuracy 75.69559 
+Epoch 44 iteration 8200: Loss 0.00164 Mean Loss 0.00961 
+Epoch 44 iteration 8200: Mean Accuracy 75.69755 
+Epoch 44 iteration 8201: Loss 0.00069 Mean Loss 0.00961 
+Epoch 44 iteration 8201: Mean Accuracy 75.70039 
+Epoch 44 iteration 8202: Loss 0.00075 Mean Loss 0.00961 
+Epoch 44 iteration 8202: Mean Accuracy 75.70248 
+Epoch 44 iteration 8203: Loss 0.00079 Mean Loss 0.00961 
+Epoch 44 iteration 8203: Mean Accuracy 75.70608 
+Epoch 44 iteration 8204: Loss 0.00589 Mean Loss 0.00961 
+Epoch 44 iteration 8204: Mean Accuracy 75.70863 
+Epoch 44 iteration 8205: Loss 0.00064 Mean Loss 0.00961 
+Epoch 44 iteration 8205: Mean Accuracy 75.71005 
+Epoch 44 iteration 8206: Loss 0.00071 Mean Loss 0.00961 
+Epoch 44 iteration 8206: Mean Accuracy 75.71179 
+Epoch 44 iteration 8207: Loss 0.00035 Mean Loss 0.00961 
+Epoch 44 iteration 8207: Mean Accuracy 75.71354 
+Epoch 44 iteration 8208: Loss 0.00108 Mean Loss 0.00961 
+Epoch 44 iteration 8208: Mean Accuracy 75.71567 
+Epoch 44 iteration 8209: Loss 0.00077 Mean Loss 0.00961 
+Epoch 44 iteration 8209: Mean Accuracy 75.71779 
+Epoch 44 iteration 8210: Loss 0.00070 Mean Loss 0.00960 
+Epoch 44 iteration 8210: Mean Accuracy 75.72072 
+Epoch 44 iteration 8211: Loss 0.00058 Mean Loss 0.00960 
+Epoch 44 iteration 8211: Mean Accuracy 75.72373 
+Epoch 44 iteration 8212: Loss 0.00123 Mean Loss 0.00960 
+Epoch 44 iteration 8212: Mean Accuracy 75.72601 
+Epoch 44 iteration 8213: Loss 0.00087 Mean Loss 0.00960 
+Epoch 44 iteration 8213: Mean Accuracy 75.72822 
+Epoch 44 iteration 8214: Loss 0.00099 Mean Loss 0.00960 
+Epoch 44 iteration 8214: Mean Accuracy 75.73351 
+Epoch 44 iteration 8215: Loss 0.00089 Mean Loss 0.00960 
+Epoch 44 iteration 8215: Mean Accuracy 75.73576 
+Epoch 44 iteration 8216: Loss 0.00101 Mean Loss 0.00960 
+Epoch 44 iteration 8216: Mean Accuracy 75.73814 
+Epoch 44 iteration 8217: Loss 0.00125 Mean Loss 0.00960 
+Epoch 44 iteration 8217: Mean Accuracy 75.73961 
+Epoch 44 iteration 8218: Loss 0.00046 Mean Loss 0.00960 
+Epoch 44 iteration 8218: Mean Accuracy 75.74184 
+Epoch 44 iteration 8219: Loss 0.00194 Mean Loss 0.00960 
+Epoch 44 iteration 8219: Mean Accuracy 75.74501 
+Epoch 44 iteration 8220: Loss 0.00094 Mean Loss 0.00959 
+Epoch 44 iteration 8220: Mean Accuracy 75.74791 
+Epoch 44 iteration 8221: Loss 0.00078 Mean Loss 0.00959 
+Epoch 44 iteration 8221: Mean Accuracy 75.75069 
+Epoch 44 iteration 8222: Loss 0.00095 Mean Loss 0.00959 
+Epoch 44 iteration 8222: Mean Accuracy 75.75184 
+Epoch 44 iteration 8223: Loss 0.00053 Mean Loss 0.00959 
+Epoch 44 iteration 8223: Mean Accuracy 75.75397 
+Epoch 44 iteration 8224: Loss 0.00056 Mean Loss 0.00959 
+Epoch 44 iteration 8224: Mean Accuracy 75.75622 
+Epoch 44 iteration 8225: Loss 0.00073 Mean Loss 0.00959 
+Epoch 44 iteration 8225: Mean Accuracy 75.75880 
+Epoch 44 iteration 8226: Loss 0.00101 Mean Loss 0.00959 
+Epoch 44 iteration 8226: Mean Accuracy 75.76015 
+Epoch 44 iteration 8227: Loss 0.00071 Mean Loss 0.00959 
+Epoch 44 iteration 8227: Mean Accuracy 75.76419 
+Epoch 44 iteration 8228: Loss 0.00088 Mean Loss 0.00959 
+Epoch 44 iteration 8228: Mean Accuracy 75.76949 
+Epoch 44 iteration 8229: Loss 0.00108 Mean Loss 0.00958 
+Epoch 44 iteration 8229: Mean Accuracy 75.77111 
+Epoch 44 iteration 8230: Loss 0.00033 Mean Loss 0.00958 
+Epoch 44 iteration 8230: Mean Accuracy 75.77415 
+Epoch 44 iteration 8231: Loss 0.00104 Mean Loss 0.00958 
+Epoch 44 iteration 8231: Mean Accuracy 75.77639 
+Epoch 44 iteration 8232: Loss 0.00018 Mean Loss 0.00958 
+Epoch 44 iteration 8232: Mean Accuracy 75.77819 
+Epoch 44 iteration 8233: Loss 0.00053 Mean Loss 0.00958 
+Epoch 44 iteration 8233: Mean Accuracy 75.78011 
+Epoch 44 iteration 8234: Loss 0.00115 Mean Loss 0.00958 
+Epoch 44 iteration 8234: Mean Accuracy 75.78355 
+Epoch 44 iteration 8235: Loss 0.00055 Mean Loss 0.00958 
+Epoch 44 iteration 8235: Mean Accuracy 75.78591 

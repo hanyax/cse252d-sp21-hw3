@@ -1,0 +1,366 @@
+Epoch 10 iteration 1831: Loss 0.00709 Mean Loss 0.03157 
+Epoch 10 iteration 1831: Mean Accuracy 34.92437 
+Epoch 10 iteration 1832: Loss 0.00722 Mean Loss 0.03156 
+Epoch 10 iteration 1832: Mean Accuracy 34.93964 
+Epoch 10 iteration 1833: Loss 0.00947 Mean Loss 0.03154 
+Epoch 10 iteration 1833: Mean Accuracy 34.95695 
+Epoch 10 iteration 1834: Loss 0.00645 Mean Loss 0.03153 
+Epoch 10 iteration 1834: Mean Accuracy 34.97213 
+Epoch 10 iteration 1835: Loss 0.01030 Mean Loss 0.03152 
+Epoch 10 iteration 1835: Mean Accuracy 34.99422 
+Epoch 10 iteration 1836: Loss 0.00761 Mean Loss 0.03150 
+Epoch 10 iteration 1836: Mean Accuracy 35.02031 
+Epoch 10 iteration 1837: Loss 0.01191 Mean Loss 0.03149 
+Epoch 10 iteration 1837: Mean Accuracy 35.05532 
+Epoch 10 iteration 1838: Loss 0.00521 Mean Loss 0.03148 
+Epoch 10 iteration 1838: Mean Accuracy 35.07088 
+Epoch 10 iteration 1839: Loss 0.00800 Mean Loss 0.03147 
+Epoch 10 iteration 1839: Mean Accuracy 35.09982 
+Epoch 10 iteration 1840: Loss 0.00624 Mean Loss 0.03145 
+Epoch 10 iteration 1840: Mean Accuracy 35.11575 
+Epoch 10 iteration 1841: Loss 0.00602 Mean Loss 0.03144 
+Epoch 10 iteration 1841: Mean Accuracy 35.13570 
+Epoch 10 iteration 1842: Loss 0.00673 Mean Loss 0.03143 
+Epoch 10 iteration 1842: Mean Accuracy 35.14290 
+Epoch 10 iteration 1843: Loss 0.00848 Mean Loss 0.03141 
+Epoch 10 iteration 1843: Mean Accuracy 35.16426 
+Epoch 10 iteration 1844: Loss 0.00668 Mean Loss 0.03140 
+Epoch 10 iteration 1844: Mean Accuracy 35.18459 
+Epoch 10 iteration 1845: Loss 0.00759 Mean Loss 0.03139 
+Epoch 10 iteration 1845: Mean Accuracy 35.21478 
+Epoch 10 iteration 1846: Loss 0.00569 Mean Loss 0.03137 
+Epoch 10 iteration 1846: Mean Accuracy 35.23350 
+Epoch 10 iteration 1847: Loss 0.00678 Mean Loss 0.03136 
+Epoch 10 iteration 1847: Mean Accuracy 35.25277 
+Epoch 10 iteration 1848: Loss 0.01004 Mean Loss 0.03135 
+Epoch 10 iteration 1848: Mean Accuracy 35.27692 
+Epoch 10 iteration 1849: Loss 0.00613 Mean Loss 0.03134 
+Epoch 10 iteration 1849: Mean Accuracy 35.30783 
+Epoch 10 iteration 1850: Loss 0.00488 Mean Loss 0.03132 
+Epoch 10 iteration 1850: Mean Accuracy 35.32460 
+Epoch 10 iteration 1851: Loss 0.01019 Mean Loss 0.03131 
+Epoch 10 iteration 1851: Mean Accuracy 35.34387 
+Epoch 10 iteration 1852: Loss 0.00570 Mean Loss 0.03130 
+Epoch 10 iteration 1852: Mean Accuracy 35.35403 
+Epoch 10 iteration 1853: Loss 0.00333 Mean Loss 0.03128 
+Epoch 10 iteration 1853: Mean Accuracy 35.36622 
+Epoch 10 iteration 1854: Loss 0.00709 Mean Loss 0.03127 
+Epoch 10 iteration 1854: Mean Accuracy 35.38076 
+Epoch 10 iteration 1855: Loss 0.00755 Mean Loss 0.03125 
+Epoch 10 iteration 1855: Mean Accuracy 35.39235 
+Epoch 10 iteration 1856: Loss 0.02384 Mean Loss 0.03125 
+Epoch 10 iteration 1856: Mean Accuracy 35.40894 
+Epoch 10 iteration 1857: Loss 0.00396 Mean Loss 0.03124 
+Epoch 10 iteration 1857: Mean Accuracy 35.41981 
+Epoch 10 iteration 1858: Loss 0.00337 Mean Loss 0.03122 
+Epoch 10 iteration 1858: Mean Accuracy 35.42912 
+Epoch 10 iteration 1859: Loss 0.01214 Mean Loss 0.03121 
+Epoch 10 iteration 1859: Mean Accuracy 35.45718 
+Epoch 10 iteration 1860: Loss 0.00607 Mean Loss 0.03120 
+Epoch 10 iteration 1860: Mean Accuracy 35.47688 
+Epoch 10 iteration 1861: Loss 0.01044 Mean Loss 0.03119 
+Epoch 10 iteration 1861: Mean Accuracy 35.50917 
+Epoch 10 iteration 1862: Loss 0.00372 Mean Loss 0.03117 
+Epoch 10 iteration 1862: Mean Accuracy 35.52022 
+Epoch 10 iteration 1863: Loss 0.01295 Mean Loss 0.03116 
+Epoch 10 iteration 1863: Mean Accuracy 35.54077 
+Epoch 10 iteration 1864: Loss 0.00423 Mean Loss 0.03115 
+Epoch 10 iteration 1864: Mean Accuracy 35.55106 
+Epoch 10 iteration 1865: Loss 0.00631 Mean Loss 0.03113 
+Epoch 10 iteration 1865: Mean Accuracy 35.56550 
+Epoch 10 iteration 1866: Loss 0.00981 Mean Loss 0.03112 
+Epoch 10 iteration 1866: Mean Accuracy 35.59230 
+Epoch 10 iteration 1867: Loss 0.01010 Mean Loss 0.03111 
+Epoch 10 iteration 1867: Mean Accuracy 35.60917 
+Epoch 10 iteration 1868: Loss 0.00607 Mean Loss 0.03110 
+Epoch 10 iteration 1868: Mean Accuracy 35.62367 
+Epoch 10 iteration 1869: Loss 0.01414 Mean Loss 0.03109 
+Epoch 10 iteration 1869: Mean Accuracy 35.63903 
+Epoch 10 iteration 1870: Loss 0.00781 Mean Loss 0.03108 
+Epoch 10 iteration 1870: Mean Accuracy 35.65079 
+Epoch 10 iteration 1871: Loss 0.01234 Mean Loss 0.03107 
+Epoch 10 iteration 1871: Mean Accuracy 35.66882 
+Epoch 10 iteration 1872: Loss 0.00874 Mean Loss 0.03105 
+Epoch 10 iteration 1872: Mean Accuracy 35.69923 
+Epoch 10 iteration 1873: Loss 0.01691 Mean Loss 0.03105 
+Epoch 10 iteration 1873: Mean Accuracy 35.71682 
+Epoch 10 iteration 1874: Loss 0.00876 Mean Loss 0.03103 
+Epoch 10 iteration 1874: Mean Accuracy 35.73766 
+Epoch 10 iteration 1875: Loss 0.00895 Mean Loss 0.03102 
+Epoch 10 iteration 1875: Mean Accuracy 35.75638 
+Epoch 10 iteration 1876: Loss 0.00533 Mean Loss 0.03101 
+Epoch 10 iteration 1876: Mean Accuracy 35.77073 
+Epoch 10 iteration 1877: Loss 0.00395 Mean Loss 0.03099 
+Epoch 10 iteration 1877: Mean Accuracy 35.78388 
+Epoch 10 iteration 1878: Loss 0.00722 Mean Loss 0.03098 
+Epoch 10 iteration 1878: Mean Accuracy 35.79565 
+Epoch 10 iteration 1879: Loss 0.00842 Mean Loss 0.03097 
+Epoch 10 iteration 1879: Mean Accuracy 35.81182 
+Epoch 10 iteration 1880: Loss 0.00509 Mean Loss 0.03096 
+Epoch 10 iteration 1880: Mean Accuracy 35.82427 
+Epoch 10 iteration 1881: Loss 0.00779 Mean Loss 0.03094 
+Epoch 10 iteration 1881: Mean Accuracy 35.83904 
+Epoch 10 iteration 1882: Loss 0.00899 Mean Loss 0.03093 
+Epoch 10 iteration 1882: Mean Accuracy 35.86943 
+Epoch 10 iteration 1883: Loss 0.00776 Mean Loss 0.03092 
+Epoch 10 iteration 1883: Mean Accuracy 35.89911 
+Epoch 10 iteration 1884: Loss 0.00620 Mean Loss 0.03091 
+Epoch 10 iteration 1884: Mean Accuracy 35.91801 
+Epoch 10 iteration 1885: Loss 0.00960 Mean Loss 0.03090 
+Epoch 10 iteration 1885: Mean Accuracy 35.94240 
+Epoch 10 iteration 1886: Loss 0.00978 Mean Loss 0.03088 
+Epoch 10 iteration 1886: Mean Accuracy 35.96174 
+Epoch 10 iteration 1887: Loss 0.00393 Mean Loss 0.03087 
+Epoch 10 iteration 1887: Mean Accuracy 35.97700 
+Epoch 10 iteration 1888: Loss 0.00575 Mean Loss 0.03086 
+Epoch 10 iteration 1888: Mean Accuracy 36.00376 
+Epoch 10 iteration 1889: Loss 0.00605 Mean Loss 0.03084 
+Epoch 10 iteration 1889: Mean Accuracy 36.01657 
+Epoch 10 iteration 1890: Loss 0.00780 Mean Loss 0.03083 
+Epoch 10 iteration 1890: Mean Accuracy 36.03279 
+Epoch 10 iteration 1891: Loss 0.00667 Mean Loss 0.03082 
+Epoch 10 iteration 1891: Mean Accuracy 36.04171 
+Epoch 10 iteration 1892: Loss 0.00646 Mean Loss 0.03081 
+Epoch 10 iteration 1892: Mean Accuracy 36.06517 
+Epoch 10 iteration 1893: Loss 0.00515 Mean Loss 0.03079 
+Epoch 10 iteration 1893: Mean Accuracy 36.07779 
+Epoch 10 iteration 1894: Loss 0.00973 Mean Loss 0.03078 
+Epoch 10 iteration 1894: Mean Accuracy 36.10740 
+Epoch 10 iteration 1895: Loss 0.00517 Mean Loss 0.03077 
+Epoch 10 iteration 1895: Mean Accuracy 36.12413 
+Epoch 10 iteration 1896: Loss 0.01267 Mean Loss 0.03076 
+Epoch 10 iteration 1896: Mean Accuracy 36.14473 
+Epoch 10 iteration 1897: Loss 0.00571 Mean Loss 0.03074 
+Epoch 10 iteration 1897: Mean Accuracy 36.16055 
+Epoch 10 iteration 1898: Loss 0.01552 Mean Loss 0.03074 
+Epoch 10 iteration 1898: Mean Accuracy 36.21506 
+Epoch 10 iteration 1899: Loss 0.00813 Mean Loss 0.03073 
+Epoch 10 iteration 1899: Mean Accuracy 36.23524 
+Epoch 10 iteration 1900: Loss 0.00705 Mean Loss 0.03071 
+Epoch 10 iteration 1900: Mean Accuracy 36.26233 
+Epoch 10 iteration 1901: Loss 0.00535 Mean Loss 0.03070 
+Epoch 10 iteration 1901: Mean Accuracy 36.28598 
+Epoch 10 iteration 1902: Loss 0.00890 Mean Loss 0.03069 
+Epoch 10 iteration 1902: Mean Accuracy 36.30655 
+Epoch 10 iteration 1903: Loss 0.00584 Mean Loss 0.03067 
+Epoch 10 iteration 1903: Mean Accuracy 36.32429 
+Epoch 10 iteration 1904: Loss 0.01388 Mean Loss 0.03067 
+Epoch 10 iteration 1904: Mean Accuracy 36.35781 
+Epoch 10 iteration 1905: Loss 0.00543 Mean Loss 0.03065 
+Epoch 10 iteration 1905: Mean Accuracy 36.38263 
+Epoch 10 iteration 1906: Loss 0.00864 Mean Loss 0.03064 
+Epoch 10 iteration 1906: Mean Accuracy 36.40339 
+Epoch 10 iteration 1907: Loss 0.00491 Mean Loss 0.03063 
+Epoch 10 iteration 1907: Mean Accuracy 36.41536 
+Epoch 10 iteration 1908: Loss 0.01389 Mean Loss 0.03062 
+Epoch 10 iteration 1908: Mean Accuracy 36.44091 
+Epoch 10 iteration 1909: Loss 0.00595 Mean Loss 0.03061 
+Epoch 10 iteration 1909: Mean Accuracy 36.45574 
+Epoch 10 iteration 1910: Loss 0.00471 Mean Loss 0.03059 
+Epoch 10 iteration 1910: Mean Accuracy 36.47017 
+Epoch 10 iteration 1911: Loss 0.00622 Mean Loss 0.03058 
+Epoch 10 iteration 1911: Mean Accuracy 36.48166 
+Epoch 10 iteration 1912: Loss 0.00652 Mean Loss 0.03057 
+Epoch 10 iteration 1912: Mean Accuracy 36.49048 
+Epoch 10 iteration 1913: Loss 0.01762 Mean Loss 0.03056 
+Epoch 10 iteration 1913: Mean Accuracy 36.50557 
+Epoch 10 iteration 1914: Loss 0.01040 Mean Loss 0.03055 
+Epoch 10 iteration 1914: Mean Accuracy 36.52660 
+Epoch 10 iteration 1915: Loss 0.00905 Mean Loss 0.03054 
+Epoch 10 iteration 1915: Mean Accuracy 36.55984 
+Epoch 10 iteration 1916: Loss 0.01211 Mean Loss 0.03053 
+Epoch 10 iteration 1916: Mean Accuracy 36.59527 
+Epoch 10 iteration 1917: Loss 0.00938 Mean Loss 0.03052 
+Epoch 10 iteration 1917: Mean Accuracy 36.63185 
+Epoch 10 iteration 1918: Loss 0.00682 Mean Loss 0.03051 
+Epoch 10 iteration 1918: Mean Accuracy 36.64049 
+Epoch 10 iteration 1919: Loss 0.00754 Mean Loss 0.03049 
+Epoch 10 iteration 1919: Mean Accuracy 36.65341 
+Epoch 10 iteration 1920: Loss 0.00969 Mean Loss 0.03048 
+Epoch 10 iteration 1920: Mean Accuracy 36.66063 
+Epoch 10 iteration 1921: Loss 0.00349 Mean Loss 0.03047 
+Epoch 10 iteration 1921: Mean Accuracy 36.67527 
+Epoch 10 iteration 1922: Loss 0.00596 Mean Loss 0.03046 
+Epoch 10 iteration 1922: Mean Accuracy 36.69437 
+Epoch 10 iteration 1923: Loss 0.00880 Mean Loss 0.03044 
+Epoch 10 iteration 1923: Mean Accuracy 36.70444 
+Epoch 10 iteration 1924: Loss 0.00641 Mean Loss 0.03043 
+Epoch 10 iteration 1924: Mean Accuracy 36.71983 
+Epoch 10 iteration 1925: Loss 0.00598 Mean Loss 0.03042 
+Epoch 10 iteration 1925: Mean Accuracy 36.73406 
+Epoch 10 iteration 1926: Loss 0.00508 Mean Loss 0.03041 
+Epoch 10 iteration 1926: Mean Accuracy 36.74787 
+Epoch 10 iteration 1927: Loss 0.00696 Mean Loss 0.03039 
+Epoch 10 iteration 1927: Mean Accuracy 36.77646 
+Epoch 10 iteration 1928: Loss 0.01070 Mean Loss 0.03038 
+Epoch 10 iteration 1928: Mean Accuracy 36.78943 
+Epoch 10 iteration 1929: Loss 0.00314 Mean Loss 0.03037 
+Epoch 10 iteration 1929: Mean Accuracy 36.80440 
+Epoch 10 iteration 1930: Loss 0.00559 Mean Loss 0.03036 
+Epoch 10 iteration 1930: Mean Accuracy 36.82862 
+Epoch 10 iteration 1931: Loss 0.00580 Mean Loss 0.03034 
+Epoch 10 iteration 1931: Mean Accuracy 36.84455 
+Epoch 10 iteration 1932: Loss 0.00958 Mean Loss 0.03033 
+Epoch 10 iteration 1932: Mean Accuracy 36.86147 
+Epoch 10 iteration 1933: Loss 0.01391 Mean Loss 0.03032 
+Epoch 10 iteration 1933: Mean Accuracy 36.89510 
+Epoch 10 iteration 1934: Loss 0.00557 Mean Loss 0.03031 
+Epoch 10 iteration 1934: Mean Accuracy 36.91173 
+Epoch 10 iteration 1935: Loss 0.00803 Mean Loss 0.03030 
+Epoch 10 iteration 1935: Mean Accuracy 36.93521 
+Epoch 10 iteration 1936: Loss 0.00612 Mean Loss 0.03029 
+Epoch 10 iteration 1936: Mean Accuracy 36.95196 
+Epoch 10 iteration 1937: Loss 0.00723 Mean Loss 0.03028 
+Epoch 10 iteration 1937: Mean Accuracy 36.95957 
+Epoch 10 iteration 1938: Loss 0.00710 Mean Loss 0.03026 
+Epoch 10 iteration 1938: Mean Accuracy 36.97298 
+Epoch 10 iteration 1939: Loss 0.00355 Mean Loss 0.03025 
+Epoch 10 iteration 1939: Mean Accuracy 36.98910 
+Epoch 10 iteration 1940: Loss 0.01080 Mean Loss 0.03024 
+Epoch 10 iteration 1940: Mean Accuracy 37.00395 
+Epoch 10 iteration 1941: Loss 0.00552 Mean Loss 0.03023 
+Epoch 10 iteration 1941: Mean Accuracy 37.02104 
+Epoch 10 iteration 1942: Loss 0.00450 Mean Loss 0.03021 
+Epoch 10 iteration 1942: Mean Accuracy 37.03234 
+Epoch 10 iteration 1943: Loss 0.00497 Mean Loss 0.03020 
+Epoch 10 iteration 1943: Mean Accuracy 37.04424 
+Epoch 10 iteration 1944: Loss 0.01087 Mean Loss 0.03019 
+Epoch 10 iteration 1944: Mean Accuracy 37.05852 
+Epoch 10 iteration 1945: Loss 0.00749 Mean Loss 0.03018 
+Epoch 10 iteration 1945: Mean Accuracy 37.06720 
+Epoch 10 iteration 1946: Loss 0.01280 Mean Loss 0.03017 
+Epoch 10 iteration 1946: Mean Accuracy 37.08323 
+Epoch 10 iteration 1947: Loss 0.00444 Mean Loss 0.03016 
+Epoch 10 iteration 1947: Mean Accuracy 37.09600 
+Epoch 10 iteration 1948: Loss 0.00541 Mean Loss 0.03015 
+Epoch 10 iteration 1948: Mean Accuracy 37.11051 
+Epoch 10 iteration 1949: Loss 0.00546 Mean Loss 0.03013 
+Epoch 10 iteration 1949: Mean Accuracy 37.12481 
+Epoch 10 iteration 1950: Loss 0.00947 Mean Loss 0.03012 
+Epoch 10 iteration 1950: Mean Accuracy 37.15514 
+Epoch 10 iteration 1951: Loss 0.00357 Mean Loss 0.03011 
+Epoch 10 iteration 1951: Mean Accuracy 37.16584 
+Epoch 10 iteration 1952: Loss 0.00865 Mean Loss 0.03010 
+Epoch 10 iteration 1952: Mean Accuracy 37.18952 
+Epoch 10 iteration 1953: Loss 0.00762 Mean Loss 0.03009 
+Epoch 10 iteration 1953: Mean Accuracy 37.21222 
+Epoch 10 iteration 1954: Loss 0.00432 Mean Loss 0.03007 
+Epoch 10 iteration 1954: Mean Accuracy 37.22586 
+Epoch 10 iteration 1955: Loss 0.01659 Mean Loss 0.03007 
+Epoch 10 iteration 1955: Mean Accuracy 37.25578 
+Epoch 10 iteration 1956: Loss 0.00902 Mean Loss 0.03005 
+Epoch 10 iteration 1956: Mean Accuracy 37.28177 
+Epoch 10 iteration 1957: Loss 0.00689 Mean Loss 0.03004 
+Epoch 10 iteration 1957: Mean Accuracy 37.29542 
+Epoch 10 iteration 1958: Loss 0.00377 Mean Loss 0.03003 
+Epoch 10 iteration 1958: Mean Accuracy 37.30793 
+Epoch 10 iteration 1959: Loss 0.01681 Mean Loss 0.03002 
+Epoch 10 iteration 1959: Mean Accuracy 37.33656 
+Epoch 10 iteration 1960: Loss 0.00597 Mean Loss 0.03001 
+Epoch 10 iteration 1960: Mean Accuracy 37.35496 
+Epoch 10 iteration 1961: Loss 0.00376 Mean Loss 0.03000 
+Epoch 10 iteration 1961: Mean Accuracy 37.36848 
+Epoch 10 iteration 1962: Loss 0.00596 Mean Loss 0.02998 
+Epoch 10 iteration 1962: Mean Accuracy 37.39239 
+Epoch 10 iteration 1963: Loss 0.00716 Mean Loss 0.02997 
+Epoch 10 iteration 1963: Mean Accuracy 37.42669 
+Epoch 10 iteration 1964: Loss 0.00570 Mean Loss 0.02996 
+Epoch 10 iteration 1964: Mean Accuracy 37.44436 
+Epoch 10 iteration 1965: Loss 0.00461 Mean Loss 0.02995 
+Epoch 10 iteration 1965: Mean Accuracy 37.46444 
+Epoch 10 iteration 1966: Loss 0.00455 Mean Loss 0.02994 
+Epoch 10 iteration 1966: Mean Accuracy 37.47920 
+Epoch 10 iteration 1967: Loss 0.00562 Mean Loss 0.02992 
+Epoch 10 iteration 1967: Mean Accuracy 37.50259 
+Epoch 10 iteration 1968: Loss 0.02494 Mean Loss 0.02992 
+Epoch 10 iteration 1968: Mean Accuracy 37.52683 
+Epoch 10 iteration 1969: Loss 0.01106 Mean Loss 0.02991 
+Epoch 10 iteration 1969: Mean Accuracy 37.54389 
+Epoch 10 iteration 1970: Loss 0.00628 Mean Loss 0.02990 
+Epoch 10 iteration 1970: Mean Accuracy 37.56398 
+Epoch 10 iteration 1971: Loss 0.00509 Mean Loss 0.02989 
+Epoch 10 iteration 1971: Mean Accuracy 37.58411 
+Epoch 10 iteration 1972: Loss 0.01055 Mean Loss 0.02988 
+Epoch 10 iteration 1972: Mean Accuracy 37.60048 
+Epoch 10 iteration 1973: Loss 0.02446 Mean Loss 0.02987 
+Epoch 10 iteration 1973: Mean Accuracy 37.64103 
+Epoch 10 iteration 1974: Loss 0.01249 Mean Loss 0.02986 
+Epoch 10 iteration 1974: Mean Accuracy 37.67090 
+Epoch 10 iteration 1975: Loss 0.00617 Mean Loss 0.02985 
+Epoch 10 iteration 1975: Mean Accuracy 37.68197 
+Epoch 10 iteration 1976: Loss 0.00452 Mean Loss 0.02984 
+Epoch 10 iteration 1976: Mean Accuracy 37.70452 
+Epoch 10 iteration 1977: Loss 0.01197 Mean Loss 0.02983 
+Epoch 10 iteration 1977: Mean Accuracy 37.74995 
+Epoch 10 iteration 1978: Loss 0.01592 Mean Loss 0.02982 
+Epoch 10 iteration 1978: Mean Accuracy 37.76277 
+Epoch 10 iteration 1979: Loss 0.00832 Mean Loss 0.02981 
+Epoch 10 iteration 1979: Mean Accuracy 37.78801 
+Epoch 10 iteration 1980: Loss 0.00541 Mean Loss 0.02980 
+Epoch 10 iteration 1980: Mean Accuracy 37.80323 
+Epoch 10 iteration 1981: Loss 0.00876 Mean Loss 0.02979 
+Epoch 10 iteration 1981: Mean Accuracy 37.82922 
+Epoch 10 iteration 1982: Loss 0.01138 Mean Loss 0.02978 
+Epoch 10 iteration 1982: Mean Accuracy 37.86133 
+Epoch 10 iteration 1983: Loss 0.00869 Mean Loss 0.02977 
+Epoch 10 iteration 1983: Mean Accuracy 37.88411 
+Epoch 10 iteration 1984: Loss 0.00800 Mean Loss 0.02976 
+Epoch 10 iteration 1984: Mean Accuracy 37.90176 
+Epoch 10 iteration 1985: Loss 0.01336 Mean Loss 0.02975 
+Epoch 10 iteration 1985: Mean Accuracy 37.93221 
+Epoch 10 iteration 1986: Loss 0.00795 Mean Loss 0.02974 
+Epoch 10 iteration 1986: Mean Accuracy 37.95239 
+Epoch 10 iteration 1987: Loss 0.00675 Mean Loss 0.02973 
+Epoch 10 iteration 1987: Mean Accuracy 37.97136 
+Epoch 10 iteration 1988: Loss 0.01343 Mean Loss 0.02972 
+Epoch 10 iteration 1988: Mean Accuracy 37.99970 
+Epoch 10 iteration 1989: Loss 0.01191 Mean Loss 0.02971 
+Epoch 10 iteration 1989: Mean Accuracy 38.01242 
+Epoch 10 iteration 1990: Loss 0.00743 Mean Loss 0.02970 
+Epoch 10 iteration 1990: Mean Accuracy 38.03793 
+Epoch 10 iteration 1991: Loss 0.01057 Mean Loss 0.02969 
+Epoch 10 iteration 1991: Mean Accuracy 38.05341 
+Epoch 10 iteration 1992: Loss 0.00669 Mean Loss 0.02968 
+Epoch 10 iteration 1992: Mean Accuracy 38.06713 
+Epoch 10 iteration 1993: Loss 0.00545 Mean Loss 0.02967 
+Epoch 10 iteration 1993: Mean Accuracy 38.08309 
+Epoch 10 iteration 1994: Loss 0.00758 Mean Loss 0.02966 
+Epoch 10 iteration 1994: Mean Accuracy 38.10184 
+Epoch 10 iteration 1995: Loss 0.01854 Mean Loss 0.02965 
+Epoch 10 iteration 1995: Mean Accuracy 38.12961 
+Epoch 10 iteration 1996: Loss 0.00884 Mean Loss 0.02964 
+Epoch 10 iteration 1996: Mean Accuracy 38.14676 
+Epoch 10 iteration 1997: Loss 0.00517 Mean Loss 0.02963 
+Epoch 10 iteration 1997: Mean Accuracy 38.15554 
+Epoch 10 iteration 1998: Loss 0.01347 Mean Loss 0.02962 
+Epoch 10 iteration 1998: Mean Accuracy 38.18108 
+Epoch 10 iteration 1999: Loss 0.01036 Mean Loss 0.02961 
+Epoch 10 iteration 1999: Mean Accuracy 38.20136 
+Epoch 10 iteration 2000: Loss 0.00540 Mean Loss 0.02960 
+Epoch 10 iteration 2000: Mean Accuracy 38.21151 
+Epoch 10 iteration 2001: Loss 0.01546 Mean Loss 0.02959 
+Epoch 10 iteration 2001: Mean Accuracy 38.22944 
+Epoch 10 iteration 2002: Loss 0.00995 Mean Loss 0.02958 
+Epoch 10 iteration 2002: Mean Accuracy 38.24078 
+Epoch 10 iteration 2003: Loss 0.00757 Mean Loss 0.02957 
+Epoch 10 iteration 2003: Mean Accuracy 38.26001 
+Epoch 10 iteration 2004: Loss 0.01275 Mean Loss 0.02956 
+Epoch 10 iteration 2004: Mean Accuracy 38.27493 
+Epoch 10 iteration 2005: Loss 0.01859 Mean Loss 0.02956 
+Epoch 10 iteration 2005: Mean Accuracy 38.31998 
+Epoch 10 iteration 2006: Loss 0.01186 Mean Loss 0.02955 
+Epoch 10 iteration 2006: Mean Accuracy 38.33985 
+Epoch 10 iteration 2007: Loss 0.00666 Mean Loss 0.02954 
+Epoch 10 iteration 2007: Mean Accuracy 38.36541 
+Epoch 10 iteration 2008: Loss 0.00469 Mean Loss 0.02952 
+Epoch 10 iteration 2008: Mean Accuracy 38.37279 
+Epoch 10 iteration 2009: Loss 0.01820 Mean Loss 0.02952 
+Epoch 10 iteration 2009: Mean Accuracy 38.41176 
+Epoch 10 iteration 2010: Loss 0.00625 Mean Loss 0.02951 
+Epoch 10 iteration 2010: Mean Accuracy 38.43231 
+Epoch 10 iteration 2011: Loss 0.00870 Mean Loss 0.02950 
+Epoch 10 iteration 2011: Mean Accuracy 38.45207 
+Epoch 10 iteration 2012: Loss 0.00382 Mean Loss 0.02948 
+Epoch 10 iteration 2012: Mean Accuracy 38.46530 
+Epoch 10 iteration 2013: Loss 0.00489 Mean Loss 0.02947 
+Epoch 10 iteration 2013: Mean Accuracy 38.47735 
